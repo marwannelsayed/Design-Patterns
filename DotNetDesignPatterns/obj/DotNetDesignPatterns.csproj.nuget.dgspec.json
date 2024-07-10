@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marwannelsayed/Desktop/Derayah/Strategy-Patterns/DotNetDesignPatterns/DotNetDesignPatterns.csproj": {}
+    "/Users/marwannelsayed/Desktop/Derayah/Design-Patterns/DotNetDesignPatterns/DotNetDesignPatterns.csproj": {}
   },
   "projects": {
-    "/Users/marwannelsayed/Desktop/Derayah/Strategy-Patterns/DotNetDesignPatterns/DotNetDesignPatterns.csproj": {
+    "/Users/marwannelsayed/Desktop/Derayah/Design-Patterns/DotNetDesignPatterns/DotNetDesignPatterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marwannelsayed/Desktop/Derayah/Strategy-Patterns/DotNetDesignPatterns/DotNetDesignPatterns.csproj",
+        "projectUniqueName": "/Users/marwannelsayed/Desktop/Derayah/Design-Patterns/DotNetDesignPatterns/DotNetDesignPatterns.csproj",
         "projectName": "DotNetDesignPatterns",
-        "projectPath": "/Users/marwannelsayed/Desktop/Derayah/Strategy-Patterns/DotNetDesignPatterns/DotNetDesignPatterns.csproj",
+        "projectPath": "/Users/marwannelsayed/Desktop/Derayah/Design-Patterns/DotNetDesignPatterns/DotNetDesignPatterns.csproj",
         "packagesPath": "/Users/marwannelsayed/.nuget/packages/",
-        "outputPath": "/Users/marwannelsayed/Desktop/Derayah/Strategy-Patterns/DotNetDesignPatterns/obj/",
+        "outputPath": "/Users/marwannelsayed/Desktop/Derayah/Design-Patterns/DotNetDesignPatterns/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/marwannelsayed/.nuget/NuGet/NuGet.Config"
